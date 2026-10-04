@@ -26,7 +26,6 @@ Information Security Policy defines the purpose, direction, principles and basic
 
 • Validity and document management. Review criteria, ownership and retention of previous versions
 
-
 The policy does not describe controls in detail. It states that controls are selected through the Risk Assessment and Risk Treatment Methodology and recorded in the Statement of Applicability, so the policy stays stable while the control set evolves.
 
 𝐂𝐨𝐧𝐭𝐞𝐱𝐭
