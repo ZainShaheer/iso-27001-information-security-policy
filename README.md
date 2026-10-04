@@ -2,7 +2,7 @@
 
 Information Security Policy was created by me during a GRC training program.
 
-Information Security Policy defines the purpose, direction, principles and basic rules for information security management at the fictional company VAPT-Tech Solutions Inc. It is the top-level policy required by Clause 5.2 of ISO/IEC 27001.
+Information Security Policy defines the purpose, direction, principles and basic rules for information security management at the fictional company VAPT-Tech Solutions Inc. It is the top-level policy required by Clause 5.2 of ISO/IEC 27001. It also covers the requirements of clause 5.1 and 5.3 as well.
 
 𝐍𝐎𝐓𝐄: All names, dates and details are fictional; this was a training exercise.
 
